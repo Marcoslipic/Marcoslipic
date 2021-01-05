@@ -19,4 +19,12 @@ Here are some ideas to get you started:
 
 ## Projects 
 
-_& Chill_
+__& Chill__ 
+
+__Red Square Arcade__ 
+
+__Next Level Todo App__ 
+
+## Technologies
+
+## Let's Connect
