@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->Full Stack Software Engineer
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
 
-<!-- in your body -->
-<i class="devicon-jquery-plain"></i>
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+Hello there! Welcome to my Github!
