@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <!-- in your body -->
 <i class="devicon-jquery-plain"></i>
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
