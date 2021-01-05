@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there! Welcome to my Github! 👋
+
+My name is Marcos Lipic. I'm a Full Stack Software Engineer
 
 <!--
 **Marcoslipic/Marcoslipic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Full Stack Software Engineer
+-->
 
-Hello there! Welcome to my Github!
