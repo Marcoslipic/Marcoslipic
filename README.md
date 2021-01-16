@@ -40,4 +40,3 @@ __Next Level Todo App__
 ## Let's Connect
 [<img align="left" alt="Marcos Lipic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marcos-lipic/)
 [<img width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>](https://marcos-lipic.medium.com/)
-hello there
