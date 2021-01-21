@@ -4,7 +4,7 @@ My name is Marcos Lipic. I'm a Full Stack Software Engineer
 
 <!--
 **Marcoslipic/Marcoslipic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-hj
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
